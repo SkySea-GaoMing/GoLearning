@@ -11,5 +11,6 @@ func main() {
 	i = 2
 	fmt.Printf("%x, %d, %x,%x", ptr0, *ptr0, &ptr0, &i)
 	fmt.Println("hot-fix")
+	fmt.Println("master")
 
 }

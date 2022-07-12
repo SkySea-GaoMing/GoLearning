@@ -7,9 +7,11 @@ func fo(x int, y int) (int, int) {
 }
 
 var A int = 3
+var b = 2
 
 func main() {
 	a := new(int)
 	fmt.Println(a)
+	
 
 }
